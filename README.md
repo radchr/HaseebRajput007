@@ -35,7 +35,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="Sabesan | Twitter" height="22px" src="./SocialLogo/Twitter.png" />][twitter]
 [<img align="left" alt="Sabesan | Skype" height="22px" src="./SocialLogo/Skype.png" />][skype]
 [<img align="left" alt="Sabesan | Facebook" height="22px" src="./SocialLogo/Facebook.png" />][facebook]
-[<img align="left" alt="Sabesan | Messenger" height="22px" src="./SocialLogo/Messenger.png" />][messenger]
 [<img align="left" alt="Sabesan | Instagram" height="22px" src="./SocialLogo/Instagram.png" />][instagram]
 
 <br />
@@ -162,5 +161,4 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 [twitter]: https://twitter.com/haseebaslam509
 [skype]: https://join.skype.com/invite/xi2xyuPOc39p
 [facebook]: https://www.facebook.com/haseebaslam007/
-[messenger]: https://www.facebook.com/haseebaslam007/
 [instagram]: https://www.instagram.com/rajaa.haseeb/
