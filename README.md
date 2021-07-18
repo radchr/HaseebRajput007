@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🥅 2021 Goals: Contribute more to Open Source projects and Learn and write about new technologies.
 - ⚡ Fun fact: I love to play Chess, Sequence and Listen music.
 
-### Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
+### 📫 How to reach me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
 <!-- [<img align="left" alt="Sabesan" height="22px" src="./SocialLogo/Web.png" />][website] -->
 [<img align="left" alt="Sabesan | Gmail" height="22px" src="./SocialLogo/Gmail.png" />][gmail]
@@ -138,16 +138,16 @@ Here are some ideas to get you started:
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 
-<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=sabesansathananthan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
-<img align="center" alt="sabesan's Github Stats" src="https://github-readme-stats.sabesansathananthan.vercel.app/api?username=sabesansathananthan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
-<a href="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=sabesansathananthan&layout=compact&theme=radical">
-  <img align="center" src="https://github-readme-stats.sabesansathananthan.vercel.app/api/top-langs/?username=sabesansathananthan&layout=compact&theme=radical" />
+<a href="https://github-readme-stats.vercel.app/api?username=haseebrajput007&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
+<img align="center" alt="Haseeb's Github Stats" src="https://github-readme-stats.vercel.app/api?username=haseebrajput007&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=haseebrajput007&layout=compact&theme=radical">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=haseebrajput007&layout=compact&theme=radical" />
 </a>
 
 ---
 
 <p align=center>                           
-  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=sabesansathananthan.sabesansathananthan" alt="Visitors">                     
+  <img align=center  src="https://visitor-badge.laobi.icu/badge?page_id=haseebrajput007.haseebrajput007" alt="Visitors">                     
 </p>
 
 ---
