@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 🥅 2021 Goals: Contribute more to Open Source projects and Learn and write about new technologies.
 - ⚡ Fun fact: I love to play Chess, Sequence, and Listen to music.
 
-### 📫 How to reach me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
+### 📫 How to Reach Me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
 <!-- [<img align="left" alt="Sabesan" height="22px" src="./SocialLogo/Web.png" />][website] -->
 [<img align="left" alt="Sabesan | Gmail" height="22px" src="./SocialLogo/Gmail.png" />][gmail]
