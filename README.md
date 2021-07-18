@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, I'm Muhammad Haseeb Aslam
 
-## I'm a Undergraduate Student, Data Analyst and Jr. Machine Learning Engineer!
+## I'm an Undergraduate Student, Data Analyst, and Jr. Machine Learning Engineer!
 
-- 🔭 I’m currently working on a my final year project!
-- 🌱 I’m currently learning Fullstack, Machine Learning, Computer Vision and DevOps.
+- 🔭 I’m currently working on my final year project!
+- 🌱 I’m currently learning Fullstack, Machine Learning, Computer Vision, and DevOps.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects and Learn and write about new technologies.
-- ⚡ Fun fact: I love to play Chess, Sequence and Listen music.
+- ⚡ Fun fact: I love to play Chess, Sequence, and Listen to music.
 
 ### 📫 How to reach me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 
@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 ---
 
-### Languages and Tools:
+### Languages and Tools 🛠️
 
 [<code>
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
@@ -136,7 +136,28 @@ Here are some ideas to get you started:
 
 ---
 
-_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
+### Competencies 🤹 
+
+- Python Programmer.
+- BI analytics Dashboard using Power BI.
+- Data Extraction using Beautiful Soup and Selenium.
+- Exploratory Data Analysis using Pandas.
+- Data Visualization Matplotlib and Seaborn.
+- Predictive Analytics/Machine Learning (Supervised/Unsupervised) using Scikit-Learn and PyCaret.
+- Deep Learning with TensorFlow.
+- Amazon Web Service (AWS) using Sagemaker.
+- Backend Development using Django and Flask.
+
+---
+
+### Experiences 💼
+
+- Jr.Machine Learning Engineer - Jr. Machine Learning Engineer at world's #1 platform for building Artificial Intelligence i:e Omdena with 20,000+ collaborators from different places around the world.
+- Data Science & Bussiness Analyst at The Spark Foundation - part of sparks foundation as an internee of Data Science & business analytics to work on different projects.
+
+---
+
+_NOTE: Top languages don't indicate my skill level or something like that, it's a GitHub metric of which languages I have the most code on github_
 
 <a href="https://github-readme-stats.vercel.app/api?username=haseebrajput007&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
 <img align="center" alt="Haseeb's Github Stats" src="https://github-readme-stats.vercel.app/api?username=haseebrajput007&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
@@ -152,7 +173,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 ---
 
-[linkedin]: nkedin.com/in/muhammad-haseeb-aslam-aa18b1144/
+[linkedin]: https://www.linkedin.com/in/muhammad-haseeb-aslam/
 [medium]: https://medium.com/@haseebaslam505
 [stackoverflow]: https://stackoverflow.com/users/16474038/muhammad-haseeb-aslam
 [gmail]: mailto:work.haseeb505@gmail.com
