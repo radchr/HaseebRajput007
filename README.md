@@ -152,7 +152,6 @@ Here are some ideas to get you started:
 
 ### Experiences 💼
 
-- Jr.Machine Learning Engineer - Jr. Machine Learning Engineer at world's #1 platform for building Artificial Intelligence i:e Omdena with 20,000+ collaborators from different places around the world.
 - Data Science & Bussiness Analyst at The Spark Foundation - part of sparks foundation as an internee of Data Science & business analytics to work on different projects.
 
 ---
