@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## I'm an Undergraduate Student, Data Analyst, and Jr. Machine Learning Engineer!
 
 - 🔭 I’m currently working on my final year project!
-- 🌱 I’m currently learning Fullstack, Machine Learning, Computer Vision, and DevOps.
+- 🌱 I’m currently learning Fullstack, Machine Learning, Natural Language Processing, Computer Vision, and DevOps.
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects and Learn and write about new technologies.
 - ⚡ Fun fact: I love to play Chess, Sequence, and Listen to music.
