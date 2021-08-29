@@ -154,7 +154,8 @@ Here are some ideas to get you started:
 
 ### Experiences 💼
 
-- Data Science & Bussiness Analyst at The Spark Foundation - part of sparks foundation as an internee of Data Science & business analytics to work on different projects.
+- Machine Learning Engineer at [The Disrupt Labs](https://thedisruptlabs.com/) - Researching, Designing and Developing ML systems by using Machine Learning, Deep Learning, Computer Vision Techniques. 
+- Data Science & Bussiness Analyst at [The Spark Foundation](https://www.thesparksfoundationsingapore.org/) - Hands-on experience in development using Artificial Intelligence, Machine Learning, and Deep Learning related technologies.
 
 ---
 
