@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋, I'm Muhammad Haseeb Aslam
 
-## I'm an Undergraduate Student, Data Analyst, and Jr. Machine Learning Engineer!
+## An Undergraduate Student, Data Analyst, and Jr. Machine Learning Engineer!
 
 - 🔭 I’m currently working on my final year project!
 - 🌱 I’m currently learning Fullstack, Machine Learning, Natural Language Processing, Computer Vision, and DevOps.
@@ -127,9 +127,11 @@ Here are some ideas to get you started:
 ---
 
 ### Certifications 🏅
-
-- [DataBricks: Fundamentals of Big Data](https://academy.databricks.com/elearning/INT-INBD-v1-SP)
 - [Codecademy: Data Scientist Career Path](https://www.codecademy.com/learn/paths/data-science)
+- [Coursera: Machine Learning With Python](https://www.coursera.org/account/accomplishments/verify/Q3UMNK4MNAU8)
+- [DataBricks: Fundamentals of Big Data](https://academy.databricks.com/elearning/INT-INBD-v1-SP)
+- [Kaggle: Intermediate Machine Learning](https://www.kaggle.com/learn/certification/muhammadhaseebaslam/intermediate-machine-learning)
+- [Kaggle: Intro to Machine Learning](https://www.kaggle.com/learn/certification/muhammadhaseebaslam/intro-to-machine-learning)
 - [Kaggle: Python](https://www.kaggle.com/learn/python)
 - [Coursera: AI For Eveyone](https://www.coursera.org/learn/ai-for-everyone)
 - [DigiSkill: Graphic Designer](https://digiskills.pk/CourseDetails.aspx?Id=GRD101)
@@ -144,9 +146,9 @@ Here are some ideas to get you started:
 - Exploratory Data Analysis using Pandas.
 - Data Visualization Matplotlib and Seaborn.
 - Predictive Analytics/Machine Learning (Supervised/Unsupervised) using Scikit-Learn and PyCaret.
-- Deep Learning with TensorFlow.
+- Deep Learning with TensorFlow, PyTorch.
 - Amazon Web Service (AWS) using Sagemaker.
-- Backend Development using Django and Flask.
+- Backend Development using Django, Flask, FastAPI, Gradio and StreamLit.
 
 ---
 
